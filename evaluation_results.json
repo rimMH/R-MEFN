@@ -1,0 +1,17 @@
+{
+    "macro_f1": 0.6580201076704744,
+    "weighted_f1": 0.7605038761470154,
+    "macro_precision": 0.6518329220976011,
+    "macro_recall": 0.6821966056561853,
+    "hamming_loss": 0.08391608391608392,
+    "zero_one_loss": 0.31818181818181823,
+    "exact_match_ratio": 0.6818181818181818,
+    "class_names": [
+        "anger",
+        "fear",
+        "joy",
+        "love",
+        "sadness",
+        "surprise"
+    ]
+}
